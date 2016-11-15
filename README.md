@@ -1,3 +1,5 @@
 # PHP-Exception
 
-Beta module - in development.
+A helper package used by other Secure Traidng packages.
+
+Provides an exception class that extends \Exception.
