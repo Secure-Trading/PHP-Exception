@@ -1,10 +1,10 @@
 {
   "name" : "securetrading/exception",
-  "version" : "1.0.0",
+  "version" : "3.0.0",
   "description" : "Secure Trading's base Exception class.",
   "license" : "MIT",
   "require" : {
-    "php" : ">=5.3.0"
+    "php" : "^7.3"
   },
   "autoload" : {
     "psr-4" : {
